@@ -29,7 +29,12 @@
 - [ ] R
 
 ## Contact me
-📫 How to reach me IvanJaimesN [Email](ivan2080508@gmail.com)
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-mauricio-jaimes-ni%C3%B1o-1a417a4a/)
+- [Twitter](https://twitter.com/IvanJaimesN)
+- [Send me an email](mailto:ivan2080508@gmail.com)
+
+
 
 <!---
 IvanJaimesN/IvanJaimesN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
